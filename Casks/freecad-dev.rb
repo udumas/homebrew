@@ -11,4 +11,3 @@ cask 'freecad-dev' do
   app 'FreeCAD.app'
 end
 
-https://github.com/FreeCAD/FreeCAD/releases/download/0.19_pre/FreeCAD_0.19-19443-macOS-x86_64-conda-Qt5-Py3.dmg
